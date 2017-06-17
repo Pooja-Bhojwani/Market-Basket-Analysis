@@ -1,0 +1,16 @@
+/data/raw/*
+
+# Java
+
+*.class
+
+# Eclipse
+
+.metadata/
+bin/
+RemoteSystemsTempFiles/
+.classpath
+
+# Data
+
+data/raw/
