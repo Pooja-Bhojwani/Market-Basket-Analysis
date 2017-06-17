@@ -13,4 +13,4 @@ RemoteSystemsTempFiles/
 
 # Data
 
-data/raw/
+data/raw/*
