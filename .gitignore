@@ -3,6 +3,7 @@
 # Java
 
 *.class
+book/
 
 # Eclipse
 
