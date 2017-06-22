@@ -1,9 +1,9 @@
 /**
- * This package contains source code 
+ * This package contains source code  
  * of finding user-user similarity, item-item similarity, frequent item sets, item set recommendation
- * using hadoop
- *
+ * using Spark
+ * 
  */
-package com.hadoop.mba;
+package com.spark.mba;
 
 //rest of the file is empty
